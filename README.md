@@ -1,6 +1,10 @@
 ## Hi there, I'm Carla. Welcome to my GitHub Profile 👋
 
-I'm a 4th-year Software Engineering student at Concordia University and a Software Developer Intern at Schneider Electric, with experience in:
+- I'm a 4th-year Software Engineering student at Concordia University and a Software Developer Intern at Schneider Electric.
+
+- 🔭 I’m currently working on: Dwella Project – a full-stack app featuring live logging, apartment listings, and roommate matching.
+
+- With experience in:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -14,5 +18,9 @@ I'm a 4th-year Software Engineering student at Concordia University and a Softwa
   <img src="https://img.shields.io/badge/SQL-003B2D?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-📫 How to reach me: shawicarla@gmail.com  
-😄 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/carla-shawi-46b212220/)
+## How to reach me:
+📫 Email: shawicarla@gmail.com  
+😄 On LinkedIn: [LinkedIn](https://www.linkedin.com/in/carla-shawi-46b212220/)
+
+## Let's Connect:
+Looking forward to connecting! I'm excited about any chance to collaborate and dive deeper into software engineering.
